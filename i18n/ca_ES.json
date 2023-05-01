@@ -328,13 +328,13 @@
       "tools": "Eines"
     },
     "monitor": {
-      "alreadyConnectedError": "Could not connect to {0} {1} port. Already connected.",
-      "baudRate": "{0} baud",
-      "connectionFailedError": "Could not connect to {0} {1} port.",
-      "connectionFailedErrorWithDetails": "{0} Could not connect to {1} {2} port.",
-      "connectionTimeout": "Timeout. The IDE has not received the 'success' message from the monitor after successfully connecting to it",
-      "missingConfigurationError": "Could not connect to {0} {1} port. The monitor configuration is missing.",
-      "notConnectedError": "Not connected to {0} {1} port.",
+      "alreadyConnectedError": "No s'ha pogut connectar al port {0} {1}. Ja està connectat.",
+      "baudRate": "{0}bàudis",
+      "connectionFailedError": "No s'ha pogut connectar al port {0} {1}.",
+      "connectionFailedErrorWithDetails": "{0}No s'ha pogut connectar al port {1} {2}.",
+      "connectionTimeout": "Temps esgotat. L'IDE no ha rebut el missatge \"correcte\" del monitor després de connectar-se a ell",
+      "missingConfigurationError": "No s'ha pogut connectar al port {0} {1}. Falta la configuració del monitor.",
+      "notConnectedError": "No connectat al port {0} {1}. ",
       "unableToCloseWebSocket": "No s'ha pogut tancar la ranura web",
       "unableToConnectToWebSocket": "No s'ha pogut connectar a la ranura web"
     },
@@ -415,7 +415,7 @@
     "serial": {
       "autoscroll": "Desplaçament automàtic",
       "carriageReturn": "Retorn de carro",
-      "connecting": "Connecting to '{0}' on '{1}'...",
+      "connecting": "Connectant a \"{0}\" en \"{1}\"...",
       "message": "Missatge (escriu per enviar un missatge a \"{0}\" en \"{1}\")",
       "newLine": "Línia nova",
       "newLineCarriageReturn": "Ambdós NL & CR",
@@ -475,12 +475,12 @@
       "surveyMessage": "Ajuda'ns a millorar contestant aquesta enquesta súper curta. Valorem la nostra comunitat i volem conéixer els nostres usuaris un poc millor."
     },
     "theme": {
-      "currentThemeNotFound": "Could not find the currently selected theme: {0}. Arduino IDE has picked a built-in theme compatible with the missing one.",
-      "dark": "Dark",
-      "deprecated": "{0} (deprecated)",
-      "hc": "High Contrast",
-      "light": "Light",
-      "user": "{0} (user)"
+      "currentThemeNotFound": "No s'ha trobat el nom seleccionat: {0}. L'IDE d'Arduino ha agafat un tema compatible amb el que falta.",
+      "dark": "Fosc",
+      "deprecated": "{0} (obsolet)",
+      "hc": "Alt contrast",
+      "light": "Clar",
+      "user": "{0} (usuari)"
     },
     "title": {
       "cloud": "Núvol"

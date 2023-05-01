@@ -23,7 +23,7 @@
       "inSketchbook": "(在草稿資料夾中)",
       "installNow": "必須為目前選定的 {2} 開發板安裝 {0} {1} 核心程式，你要現在安裝嗎？",
       "noBoardsFound": "未找到開發板 {0}",
-      "noFQBN": "FQBN無法用於所選擇的\"{0}\"開發版。你是否安裝了對應的核心?",
+      "noFQBN": "所選擇的 \"{0}\" 開發版並沒有對應的 FQBN。你是否有安裝對應的核心？",
       "noNativeSerialPort": "Native serial port, can't obtain info.",
       "noPortsDiscovered": "未找到埠",
       "noPortsSelected": "沒有選到 '{0}' 板的埠",
